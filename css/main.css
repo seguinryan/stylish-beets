@@ -1,0 +1,119 @@
+html {
+  background-color: #c9b5ab;
+  font-family: "PT Serif", serif;
+  font-weight: lighter;
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+img {
+  width: 100%;
+  margin-top: .125rem;
+}
+
+h1 {
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #3f1622;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+nav, h2 {
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+  color: #8f2440;
+  font-size: 1.125rem;
+  line-height: 1.5rem;
+}
+
+nav li {
+  list-style-type: none;
+  text-decoration: none;
+  margin-top: .125rem;
+}
+
+nav a {
+  color: #8f2440;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #3f1622;
+  text-decoration: underline;
+}
+
+h2 {
+  color: #3f1622;
+  font-size: 1.5rem;
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+  line-height: .125rem;
+}
+
+.germination {
+  font-weight: 600;
+  font-size: 1.125rem;
+}
+
+.fact {
+  line-height: 1.5rem;
+  text-align: left;
+}
+
+.chris {
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 1.5em;
+  line-height: 1.5em;
+}
+
+.pratt {
+  font-size: .8rem;
+  font-weight: 100;
+}
+
+.common {
+  list-style-type: lower-greek;
+  line-height: 1.5rem;
+}
+
+.serving {
+  font-style: italic;
+}
+
+dt {
+  font-weight: bold;
+}
+
+.tags {
+  font-size: .8rem;
+  list-style-type: circle;
+  line-height: 1.5rem;
+}
+
+a {
+  color: #8f2440;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #8f2440;
+  text-decoration: underline;
+}
+
+strong {
+  font-weight: normal;
+}
+
+body p:first-child {
+  margin-top: .8em;
+}
+
+body p:nth-child(2) {
+  margin-top: 1.8em;
+}
